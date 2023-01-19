@@ -1,0 +1,12 @@
+************************************* Invoked: «·√—»⁄«¡ œÌ”„»— 7 23:37:19 2022
+[0] Arguments: C:\Users\youssifSaleh\Downloads\msys2-x86_64-20221028.exe
+[70] Operations sanity check succeeded.
+[73] Warning: Cannot create lock file "C:\Users\youssifSaleh\AppData\Local\Temp\msys2-x86_64-202210281234865.lock": The file exists.
+ (0x00000050)
+[133] UnableToStart : Unable to start installer : Another msys2-x86_64-20221028 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: «·√—»⁄«¡ œÌ”„»— 7 23:37:20 2022
+[0] Arguments: C:\Users\youssifSaleh\Downloads\msys2-x86_64-20221028.exe
+[22] Operations sanity check succeeded.
+[24] Warning: Cannot create lock file "C:\Users\youssifSaleh\AppData\Local\Temp\msys2-x86_64-202210281234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[68] UnableToStart : Unable to start installer : Another msys2-x86_64-20221028 instance is already running. Wait until it finishes, close it, or restart your system.
